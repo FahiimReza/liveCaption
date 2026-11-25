@@ -20,7 +20,7 @@ A real-time floating system-audio caption and translation overlay for Windows bu
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/live-caption-overlay.git
+   git clone https://github.com/FahiimReza/liveCaption.git
    cd live-caption-overlay
 
 
